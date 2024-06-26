@@ -1,6 +1,6 @@
 # KPI-Dashboard-for-Local-Pizzeria 
 
-[https://app.powerbi.com/view?r=eyJrIjoiOTgwYTVhMTAtNDk5NC00OTQ1LWIwMTUtODEwZGQ5ODZjNjI0IiwidCI6ImZiNjhkNGIxLWZlMGMtNDdkYi1hNzkyLWU4MGUzMGRhZTk3YiJ9](Dashboard)
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTgwYTVhMTAtNDk5NC00OTQ1LWIwMTUtODEwZGQ5ODZjNjI0IiwidCI6ImZiNjhkNGIxLWZlMGMtNDdkYi1hNzkyLWU4MGUzMGRhZTk3YiJ9)
 
 **Situation** <br />
 The local pizzeria faced challenges in understanding its sales patterns and identifying key drivers of revenue. With various types of pizzas, different sales days, and varying customer preferences, the pizzeria needed a comprehensive way to analyze and visualize this data to make informed business decisions. The goal of this project was to develop a Power BI dashboard that provided detailed insights into sales performance, enabling the pizzeria to track daily and monthly trends, identify popular and underperforming pizzas, and optimize resource allocation for peak times. This project aimed to enhance the pizzeria's ability to make data-driven decisions, ultimately improving sales and operational efficiency.
