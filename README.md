@@ -1,4 +1,4 @@
-# KPI-Dashboard-for-Local-Pizzeria 
+# Sales-Insights-Dashboard-for-Local-Business
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTgwYTVhMTAtNDk5NC00OTQ1LWIwMTUtODEwZGQ5ODZjNjI0IiwidCI6ImZiNjhkNGIxLWZlMGMtNDdkYi1hNzkyLWU4MGUzMGRhZTk3YiJ9)
 
